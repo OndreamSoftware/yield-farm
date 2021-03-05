@@ -1,6 +1,6 @@
 {
   "name": "yield-farm-pool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "directories": {
     "test": "test"
@@ -12,7 +12,7 @@
     "lint": "npx eslint ./scripts ./test ./util *.js --cache --fix && npx solhint ./contracts/*.sol",
     "test": "./scripts/test.sh"
   },
-  "author": "",
+  "author": "elite-dev-1012",
   "license": "ISC",
   "dependencies": {
     "app-root-path": "~2.1.0",
